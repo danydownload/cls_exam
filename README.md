@@ -1,3 +1,3 @@
-#CLS EXAM
+#Computational and Statistical Learning exam
 
-Codici, pdf e presentazione del materiale usato per l'esame di cls.
+Brevi notebook per testare concetti di Machine Learning e Deep Learning + presentazione usata per esame
